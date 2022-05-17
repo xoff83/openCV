@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6E3ls6wsiFV6Zb3dks3iGRSCd/mKMIO4qjtgW3JLVzwXDLWScWxtZLjPMH/C3EiKcDDyPCRR1PE1kOOwqTN7sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\panizz_c\\source\\repos\\openCV\\openCV\\openCV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\panizz_c\\.nuget\\packages\\opencvsharp4\\4.5.5.20211231\\opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\panizz_c\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.5.20211231\\opencvsharp4.runtime.win.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\panizz_c\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\panizz_c\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
